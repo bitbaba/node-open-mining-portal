@@ -1,4 +1,4 @@
-node_modules/
+/nohup.out
 .idea/
 config.json
 pool_configs/*.json
