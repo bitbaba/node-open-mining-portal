@@ -1,0 +1,6 @@
+{
+    "name": "BitGold",
+    "symbol": "BTG",
+    "algorithm": "sha256g",
+    "peerMagic": "901dcafe"
+}
